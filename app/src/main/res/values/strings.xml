@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Timer4tv</string>
-    <string name="accessibility_description">Used to turn off the screen when the sleep timer expires and manage the countdown overlay.</string>
+    <string name="app_name">TV Timer</string>
+    <string name="accessibility_description">Used to turn off the screen when the sleep timer expires.</string>
     <string name="timer_label">%1$s</string>
 </resources>
