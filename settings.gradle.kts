@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Timer4tv"
+rootProject.name = "timer4tv"
 include(":app")

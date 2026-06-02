@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.dong100.timer4tv"
+    namespace = "com.dong100.tvtimer"
     compileSdk {
         version = release(36) {
             minorApiLevel = 1

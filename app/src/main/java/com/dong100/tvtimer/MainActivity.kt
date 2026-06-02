@@ -1,4 +1,4 @@
-package com.dong100.timer4tv
+package com.dong100.tvtimer
 
 import android.accessibilityservice.AccessibilityService
 import android.content.Intent
@@ -40,7 +40,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.dong100.timer4tv.ui.theme.Timer4tvTheme
+import com.dong100.tvtimer.ui.theme.Timer4tvTheme
 import java.util.Locale
 import java.util.concurrent.TimeUnit
 

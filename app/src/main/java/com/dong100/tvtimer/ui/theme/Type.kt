@@ -1,4 +1,4 @@
-package com.dong100.timer4tv.ui.theme
+package com.dong100.tvtimer.ui.theme
 
 import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.font.FontFamily
